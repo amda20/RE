@@ -24,7 +24,7 @@
     <h2 class="gallary">Valg tøj fra kollektion</h2>
     <form>
         <input type="text" placeholder=" Search...." name="search">
-        <button type="submit">Submit</button>
+        <button type="submit">Søg</button>
     <br><br><br>
             <img src="images/AU1.png" alt="" width="500" height="35"/>
         <br><br>
